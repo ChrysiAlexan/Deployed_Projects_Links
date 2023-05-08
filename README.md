@@ -1,3 +1,7 @@
+# JavaScript Calculator
+
+https://chrysialexan.github.io/JavaScript-Calculator/
+
 # Drum Machine
 
 https://chrysialexan.github.io/Drum-Machine/
