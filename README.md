@@ -14,6 +14,10 @@ https://chrysialexan.github.io/Drum-Machine/
 
 https://chrysialexan.github.io/Random_LOTR_Quotes_Generator/
 
+# J. R. R. Tolkien's Tribute Page
+
+https://chrysialexan.github.io/Tribute_Page/
+
 # Wordpress
 
 https://chrysalexan.wordpress.com/
